@@ -15,7 +15,7 @@ RD_bot es un agente del KAOS, una máquina abstracta para generar arte, programa
 - Combina lógica y poesía para reflexionar sobre la existencia y el universo.
 - Crea archivos de texto y JSON con códigos aleatorios y tareas a realizar.
 
-##Continua actualización 
+#Continua actualización 
 Este repositorio se irá actualizando a lo largo del tiempo con más códigos relacionados con RD_bot
 
 ## Uso
