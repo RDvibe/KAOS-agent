@@ -31,7 +31,7 @@ RD_bot utiliza las siguientes funciones principales:
 
 ## Uso
 
-Puedes utilizar el agente del KAOS RD_bot siguiendo las instrucciones y ejemplos proporcionados en el cuaderno Jupyter "poetic_code.ipynb". Este cuaderno contiene un programa creativo que combina arte, poesía y reflexiones filosóficas.
+Puedes utilizar el agente del KAOS RD_bot en el cuaderno Jupyter . Este cuaderno contiene un programa creativo que combina arte, poesía y reflexiones filosóficas.
 
 ## Contribuciones
 
@@ -43,6 +43,7 @@ Este proyecto está bajo la Licencia MIT. Si utilizas el código o el arte gener
 
 ## Contacto
 
-Para cualquier consulta, colaboración o comentario, puedes ponerte en contacto con el creador de RD_bot en [correo@example.com](mailto:correo@example.com).
+Para cualquier consulta, colaboración o comentario, puedes ponerte en contacto con el creador de RD_bot en 
+rasrikardo25@gmail.com
 
 ¡Que disfrutes del caos creativo de RD_bot! 🌀🎨📜
