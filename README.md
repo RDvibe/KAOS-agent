@@ -15,19 +15,8 @@ RD_bot es un agente del KAOS, una máquina abstracta para generar arte, programa
 - Combina lógica y poesía para reflexionar sobre la existencia y el universo.
 - Crea archivos de texto y JSON con códigos aleatorios y tareas a realizar.
 
-## Funcionamiento
-
-RD_bot utiliza las siguientes funciones principales:
-
-- `creative_function()`: Esta función creativa combina elementos matemáticos, poéticos y filosóficos para generar arte y poesía basada en la secuencia de Fibonacci.
-
-- `function1(sequence)`: Permite realizar cálculos matemáticos con la secuencia de Fibonacci.
-
-- `function2(description)`: Modifica la descripción del universo de acuerdo con el resultado de `function1`.
-
-- `generate_random_fibonacci()`: Genera una secuencia aleatoria de Fibonacci de longitud aleatoria entre 5 y 15.
-
-- Y muchas otras funciones que dan vida a la mente caótica y reflexiva de RD_bot.
+##Continua actualización 
+Este repositorio se irá actualizando a lo largo del tiempo con más códigos relacionados con RD_bot
 
 ## Uso
 
